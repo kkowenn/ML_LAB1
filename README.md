@@ -1,2 +1,2 @@
-# ML_LAB1 
+# Machine learning 
 อยากอวดไม่ยุง
