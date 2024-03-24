@@ -4,21 +4,7 @@
 
 This repository contains a Jupyter notebook which serves as a practice space for implementing and understanding various machine learning algorithms using Python. The notebook is designed to be interactive and educational, ideal for learners who are beginning to explore the field of machine learning.
 
-```
-
-## Usage
-
-To get started with the practice notebook, launch Jupyter Notebook or JupyterLab from your terminal:
-```
-jupyter notebook
-```
-or
-```
-jupyter lab
-```
-Navigate to the notebook file within the Jupyter interface and open it to start executing the code cells.
-
-## Features
+## Content
 
 - The notebook includes:
 - Basic and advanced statistics
