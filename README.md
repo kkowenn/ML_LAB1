@@ -42,35 +42,12 @@ Navigate to the notebook file within the Jupyter interface and open it to start 
 
 ## Features
 
-The notebook includes:
-- Data preprocessing and analysis
-- Visualization of datasets
-- Implementation of various machine learning algorithms:
-  - Linear Regression
-  - Logistic Regression
-  - k-Nearest Neighbors
-  - Support Vector Machines
-  - Decision Trees and Random Forests
-  - Clustering Algorithms (k-Means, Hierarchical Clustering, DBSCAN)
-  - Neural Networks
-- Model evaluation and validation techniques
-- Hyperparameter tuning
-
-## Contributing
-
-Contributions to this notebook are welcome. If you have a suggestion that would improve it, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.txt) - see the LICENSE file for details.
-
-## Contact
-
-If you have any questions or comments, please feel free to contact me at your-email@example.com.
-
-## Acknowledgments
-
-- Mention any inspirations, code snippets, etc.
-- Credits to any third-party assets or datasets used
-- Any collaborators or contributors to this project
-```
+- The notebook includes:
+- Basic and advanced statistics
+- Multiple linear regression
+- Perceptron
+- Information gain
+- Cluster analysis
+- Multi-layer perceptron
+- Genetic algorithm
+- Convolutional neural network
