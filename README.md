@@ -2,8 +2,7 @@
 
 ## Introduction
 
-This repository contains a Jupyter notebook which serves as a practice space for implementing and understanding various machine learning algorithms using Python. The notebook is designed to be interactive and educational, ideal for learners who are beginning to explore the field of machine learning.
-
+This repository contains a Jupyter notebook which serves as a practice space for implementing and understanding various machine learning algorithms using Python. The notebook is designed to be interactive and educational.
 ## Content
 
 - The notebook includes:
