@@ -1,4 +1,4 @@
-# Machine Learning Practice Notebook
+# Machine Learning Practice Notebook without library
 
 ## Introduction
 
